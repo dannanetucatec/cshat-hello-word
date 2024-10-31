@@ -1,0 +1,15 @@
+C:\Users\usser\Documents\lenguajes-programacion\cshat-example\bin\Debug\net8.0\cshat-example.exe
+C:\Users\usser\Documents\lenguajes-programacion\cshat-example\bin\Debug\net8.0\cshat-example.deps.json
+C:\Users\usser\Documents\lenguajes-programacion\cshat-example\bin\Debug\net8.0\cshat-example.runtimeconfig.json
+C:\Users\usser\Documents\lenguajes-programacion\cshat-example\bin\Debug\net8.0\cshat-example.dll
+C:\Users\usser\Documents\lenguajes-programacion\cshat-example\bin\Debug\net8.0\cshat-example.pdb
+C:\Users\usser\Documents\lenguajes-programacion\cshat-example\obj\Debug\net8.0\cshat-example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usser\Documents\lenguajes-programacion\cshat-example\obj\Debug\net8.0\cshat-example.AssemblyInfoInputs.cache
+C:\Users\usser\Documents\lenguajes-programacion\cshat-example\obj\Debug\net8.0\cshat-example.AssemblyInfo.cs
+C:\Users\usser\Documents\lenguajes-programacion\cshat-example\obj\Debug\net8.0\cshat-example.csproj.CoreCompileInputs.cache
+C:\Users\usser\Documents\lenguajes-programacion\cshat-example\obj\Debug\net8.0\cshat-example.sourcelink.json
+C:\Users\usser\Documents\lenguajes-programacion\cshat-example\obj\Debug\net8.0\cshat-example.dll
+C:\Users\usser\Documents\lenguajes-programacion\cshat-example\obj\Debug\net8.0\refint\cshat-example.dll
+C:\Users\usser\Documents\lenguajes-programacion\cshat-example\obj\Debug\net8.0\cshat-example.pdb
+C:\Users\usser\Documents\lenguajes-programacion\cshat-example\obj\Debug\net8.0\cshat-example.genruntimeconfig.cache
+C:\Users\usser\Documents\lenguajes-programacion\cshat-example\obj\Debug\net8.0\ref\cshat-example.dll
