@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cshat-example")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92c6a2b3d532bf950750ec9183af55f3fc22e3dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ffb0a35aa77a8df22451f6aad3277bfa3dbc985")]
 [assembly: System.Reflection.AssemblyProductAttribute("cshat-example")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cshat-example")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
